@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "m2CFGohuEvpE71NUbncA/JkOX3XfET69pRzDY+jonqhS7PX75EtjftXGLGZ6qsIjKCB/KETJeurgipEyanBxZw==",
+  "dgSpecHash": "+VQmufuJteDQdU9Fs96jFVdQVvDPI2h00K121WSgDf6g3N4x/JGhfEFkLcCOPavpjqO1FJtCfwvxax088YiTrw==",
   "success": true,
-  "projectFilePath": "C:\\_Work\\UiPath Studio projects\\repo1\\ForwardDemo\\InvoiceProcessing\\Demo.ReusableComponents.SAP\\.local\\",
+  "projectFilePath": "C:\\_Work\\UiPath Studio projects\\ForwardDemo\\InvoiceProcessing\\Demo.ReusableComponents.SAP\\.local\\",
   "expectedPackageFiles": [
-    "C:\\Users\\alexandru.iordan\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.8.14380-dev\\bitmiracle.docotic.pdf.8.8.14380-dev.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -220,7 +219,6 @@
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.system.activities\\23.4.1-beta.3688279\\uipath.system.activities.23.4.1-beta.3688279.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.system.runtime.portable\\23.4.1-beta.3688279\\uipath.system.runtime.portable.23.4.1-beta.3688279.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
-    "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.testing.activities\\22.10.3\\uipath.testing.activities.22.10.3.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.1-beta.3689199\\uipath.uiautomation.activities.23.4.1-beta.3689199.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.uiautomation.activities.runtime.portable\\23.4.1-beta.3689199\\uipath.uiautomation.activities.runtime.portable.23.4.1-beta.3689199.nupkg.sha512",
     "C:\\Users\\alexandru.iordan\\.nuget\\packages\\uipath.vision\\3.8.0-preview\\uipath.vision.3.8.0-preview.nupkg.sha512",
